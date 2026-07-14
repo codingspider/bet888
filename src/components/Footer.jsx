@@ -134,7 +134,7 @@ export default function Footer() {
               Bangladesh's No.1 - The Biggest and Most Trusted
             </Text>
             <Text fontSize="12px" color="#666">
-              Website in BD | © 2024 - All Rights Reserved
+              Website in BD | © 2026 - All Rights Reserved
             </Text>
           </Box>
 
